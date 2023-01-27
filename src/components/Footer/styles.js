@@ -16,7 +16,7 @@ export const Container = styled.div`
     div {
         display: flex;
         flex-direction: row;
-        gap: 100px;
+        gap: 80px;
         margin: 0 0 40px 0;
         a {
             display: flex;
